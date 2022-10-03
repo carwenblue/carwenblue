@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 
 - I am very curious and persevering
 - I am a psychologist
+- In high school I wanted to study biology, psychology or computer science
 - I love reading
 - I love to paint, knit, embroider and sew, but I spend little time on it
 - I love nature
