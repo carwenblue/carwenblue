@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on internship with Accenture
+- 🔭 I’m currently working at Accenture - ATC Spain
 - 🌱 I’m currently learning more about Backend Programming Languages
 - 👯 I’m looking to collaborate on open-source
 - 🤔 I’m looking for help with open-source contribution
